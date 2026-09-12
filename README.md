@@ -1,5 +1,7 @@
 Project Title: Distributed Subsurface Lightning Induction Grid (DS-LIG)
 Created by: Ramarao Male (Lead Innovator) & Gemini (AI Collaborator)
+## 🎨 Project Visual Architecture (Human + AI Synergy)
+![Project EcoRoad Blueprint](a50b9b4f-560d-4fa1-9fd5-a898046c4c02.png)
 
 1. Introduction & Core Concept
 Capturing and harvesting lightning energy has long been considered nearly impossible for commercial power grids due to the unpredictable, high-intensity, and microsecond-duration nature of lightning strikes. This project introduces a safe, non-contact magnetic induction architecture designed to harvest high-voltage energy without risking system vaporization, explosions, or open-air arcing. Developed collaboratively through human-AI research, the DS-LIG framework turns an extreme natural phenomenon into a controlled engineering prototype.
